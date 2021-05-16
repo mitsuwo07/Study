@@ -52,5 +52,5 @@ Javaで書かれたプログラムを実行するのに必要であるため、J
 [Tomcat設定手順](https://carey.link/java/basic/java-eclipse-tomcat)
 
 - 「Eclipseは昔は星の名前をバージョン名にしていた」  
-2018年6月までは星の名前、ver 2018より年度がVer
+2018年6月までは星の名前、ver 2018より年度がVer  
 ![image](https://user-images.githubusercontent.com/49235225/118125173-9ae49180-b431-11eb-9e75-d541fe822814.png)
