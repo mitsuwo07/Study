@@ -12,8 +12,9 @@ Javaの開発環境、下記機能を実装
 **Eclipse：**
 無料のIDE（Integrated Development Environment：統合開発環境)
 C/C++やPHPなどのJava以外の言語も可  
-Pleiades All in Oneをインストール 
-[Windows版](https://www.sejuku.net/blog/12236)
+
+Pleiades All in Oneをインストール  
+[Windows版](https://www.sejuku.net/blog/12236)  
 [Mac版](https://www.sejuku.net/blog/12578)  
 
 ---
@@ -22,10 +23,10 @@ Pleiades All in Oneをインストール
  [JDKをダウンロード](https://www.oracle.com/java/technologies/javase-jre8-downloads.html)
    Ver : Java SE Runtime Environment 8u291 / macOS x64 Installer
 
- - **JDK（Java Development Kit）:**  
+  - **JDK（Java Development Kit）:**  
   Java言語でプログラムを組む際に必要なソフト（開発キット）、JREを含む  
 
- - **JRE（Java Runtime Environment）:**  
+  - **JRE（Java Runtime Environment）:**  
   Javaで作られたアプリケーションを動かすために必要なソフト  
 Javaで書かれたプログラムを実行するのに必要であるため、Java言語を使ってプログラミングを行う開発者だけでなくユーザー側も必要
  
@@ -35,14 +36,15 @@ Javaで書かれたプログラムを実行するのに必要であるため、J
 
 - 「JavaEE対応(Enterprise版)」
 　
- - **Java EE(Java Platform, Enterprise Edition):**
+  - **Java EE(Java Platform, Enterprise Edition):**
   JavaSE+拡張機能（サーバーサイドの機能＝Webサイト（もしくはWebアプリケーション）開発）
  
- - **JavaSE（Java Standard Edition）:**
+  - **JavaSE（Java Standard Edition）:**
   Java言語でプログラミングを行う際に最低限必要な機能をまとめたもの
 
-？JavaEE開発環境にはTomcatが必要なのか？ → 必須　Pleiades All in Oneに含まれているため、別途インストールは不要
-https://github.com/mitsuwo07/study/issues/1#issue-890990454
+？JavaEE開発環境にはTomcatが必要なのか？  
+→ 必須　Pleiades All in Oneに含まれているため、別途インストールは不要  
+[](https://github.com/mitsuwo07/study/issues/1#issue-8909904540)
 
 [Tomcat設定手順](https://carey.link/java/basic/java-eclipse-tomcat)
 
