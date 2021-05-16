@@ -1,6 +1,7 @@
 Java開発に必要な2点をインストール  
 
-**JDK（Java Development Kit）:**
+1. **JDK（Java Development Kit）:**
+
 Javaの開発環境、下記機能を実装  
 
 - JRE（Java Runtime Environment）: Java実行環境
@@ -9,7 +10,7 @@ Javaの開発環境、下記機能を実装
 - クラスライブラリ・・・開発を効率化するライブラリ
 - ドキュメント生成・・・ソースからドキュメントを自動的に作る機能  
 
-**Eclipse：**
+2. **Eclipse：**
 無料のIDE（Integrated Development Environment：統合開発環境)
 C/C++やPHPなどのJava以外の言語も可  
 
@@ -34,8 +35,7 @@ Pleiades All in Oneをインストール
   Javaで作られたアプリケーションを動かすために必要なソフト  
 Javaで書かれたプログラムを実行するのに必要であるため、Java言語を使ってプログラミングを行う開発者だけでなくユーザー側も必要   
 [Java SE/EE/JRE/JDK](https://www.sejuku.net/blog/12902)
-
-
+---
 - 「JavaEE対応(Enterprise版)」
 　
   - **Java EE(Java Platform, Enterprise Edition):**
@@ -51,6 +51,7 @@ Javaで書かれたプログラムを実行するのに必要であるため、J
 
 [Tomcat設定手順](https://carey.link/java/basic/java-eclipse-tomcat)
 
+---
 - 「Eclipseは昔は星の名前をバージョン名にしていた」  
 2018年6月までは星の名前、ver 2018より年度がVer  
 ![image](https://user-images.githubusercontent.com/49235225/118125173-9ae49180-b431-11eb-9e75-d541fe822814.png)
