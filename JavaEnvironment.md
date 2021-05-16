@@ -44,7 +44,6 @@ Javaで書かれたプログラムを実行するのに必要であるため、J
 
 ？JavaEE開発環境にはTomcatが必要なのか？  
 → 必須　Pleiades All in Oneに含まれているため、別途インストールは不要  
-[](https://github.com/mitsuwo07/study/issues/1#issue-8909904540)
 ![image](https://user-images.githubusercontent.com/49235225/118124286-54dafe00-b430-11eb-87e9-c538ada5258c.png)
 
 [Tomcat設定手順](https://carey.link/java/basic/java-eclipse-tomcat)
