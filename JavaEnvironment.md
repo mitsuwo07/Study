@@ -28,19 +28,19 @@ Pleiades All in Oneをインストール
 
   - **JDK（Java Development Kit）:**  
   Java言語でプログラムを組む際に必要なソフト（開発キット）、JREを含む  
+  [JDK verについて](https://www.ne.jp/asahi/hishidama/home/tech/java/version.html)
 
   - **JRE（Java Runtime Environment）:**  
   Javaで作られたアプリケーションを動かすために必要なソフト  
-Javaで書かれたプログラムを実行するのに必要であるため、Java言語を使ってプログラミングを行う開発者だけでなくユーザー側も必要
- 
+Javaで書かれたプログラムを実行するのに必要であるため、Java言語を使ってプログラミングを行う開発者だけでなくユーザー側も必要   
 [Java SE/EE/JRE/JDK](https://www.sejuku.net/blog/12902)
-[JDK verについて](https://www.ne.jp/asahi/hishidama/home/tech/java/version.html)
 
 
 - 「JavaEE対応(Enterprise版)」
 　
   - **Java EE(Java Platform, Enterprise Edition):**
-  JavaSE+拡張機能（サーバーサイドの機能＝Webサイト（もしくはWebアプリケーション）開発）
+  JavaSE+拡張機能  
+  （サーバーサイドの機能＝Webサイト（もしくはWebアプリケーション）開発）
  
   - **JavaSE（Java Standard Edition）:**
   Java言語でプログラミングを行う際に最低限必要な機能をまとめたもの
