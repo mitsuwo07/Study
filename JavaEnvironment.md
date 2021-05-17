@@ -23,7 +23,17 @@ Pleiades All in Oneをインストール
 
 ---
 - 「Java1.8以降」
-→ JDK（Java Development Kit） ver 1.8　以降 
+- JavaSE（Java Standard Edition） ver 1.8　以降 
+  - **Java EE(Java Platform, Enterprise Edition):**
+  JavaSE+拡張機能  
+  （サーバーサイドの機能＝Webサイト（もしくはWebアプリケーション）開発）
+
+- 「JavaEE対応(Enterprise版)」
+  - **Java EE(Java Platform, Enterprise Edition):**
+  JavaSE+拡張機能  
+  （サーバーサイドの機能＝Webサイト（もしくはWebアプリケーション）開発）
+
+→ JDK（Java Development Kit）
  [JDKをダウンロード](https://www.oracle.com/java/technologies/javase-downloads.html)
    Ver : Java SE 16 / macOS x64 Installer
 
@@ -36,15 +46,6 @@ Pleiades All in Oneをインストール
   Javaで作られたアプリケーションを動かすために必要なソフト  
 Javaで書かれたプログラムを実行するのに必要であるため、Java言語を使ってプログラミングを行う開発者だけでなくユーザー側も必要   
 [Java SE/EE/JRE/JDK](https://www.sejuku.net/blog/12902)
----
-- 「JavaEE対応(Enterprise版)」
-　
-  - **Java EE(Java Platform, Enterprise Edition):**
-  JavaSE+拡張機能  
-  （サーバーサイドの機能＝Webサイト（もしくはWebアプリケーション）開発）
- 
-  - **JavaSE（Java Standard Edition）:**
-  Java言語でプログラミングを行う際に最低限必要な機能をまとめたもの
 
 ？JavaEE開発環境にはTomcatが必要なのか？  
 → 必須　Pleiades All in Oneに含まれているため、別途インストールは不要  
