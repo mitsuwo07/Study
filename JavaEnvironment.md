@@ -23,12 +23,13 @@ Pleiades All in Oneをインストール
 
 ---
 - 「Java1.8以降」
-→ JDK（Java Development Kit） 1.8  
- [JDKをダウンロード](https://www.oracle.com/java/technologies/javase-jre8-downloads.html)
-   Ver : Java SE Runtime Environment 8u291 / macOS x64 Installer
+→ JDK（Java Development Kit） ver 1.8　以降 
+ [JDKをダウンロード](https://www.oracle.com/java/technologies/javase-downloads.html)
+   Ver : Java SE 16 / macOS x64 Installer
 
   - **JDK（Java Development Kit）:**  
   Java言語でプログラムを組む際に必要なソフト（開発キット）、JREを含む  
+  [JDK インストール](https://www.techfun.co.jp/service/magazine/java/mac-jdk-install.html)  
   [JDK verについて](https://www.ne.jp/asahi/hishidama/home/tech/java/version.html)
 
   - **JRE（Java Runtime Environment）:**  
